@@ -46,7 +46,11 @@ Preprocessing for the Student Performance dataset may involve handling missing d
 **Visualizations**
 Included sample visualizations from the notebooks.
 
-Frailty Dataset Visualization:
+Frailty Dataset Visualization: 
+
 [Q1_Frailty.pdf](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/files/14250369/Q1_Frailty.pdf)
-Student Performance Dataset Visualization:
+
+Student Performance Dataset Visualization: 
+
+[Q2_Student_performance.pdf](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/files/14250400/Q2_Student_performance.pdf)
 
