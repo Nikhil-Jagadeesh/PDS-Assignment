@@ -50,7 +50,28 @@ Frailty Dataset Visualization:
 
 [Q1_Frailty.pdf](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/files/14250369/Q1_Frailty.pdf)
 
+![image](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/assets/70753271/380d94c4-a77a-499e-956d-dbf10f64eec2)
+
+![image](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/assets/70753271/9ab801de-8cb2-435d-8e6f-9dd62bf5a78a)
+
+![image](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/assets/70753271/e6de8658-90d2-42d6-b6e8-0ed593a1b023)
+
+
+
+
 Student Performance Dataset Visualization: 
 
 [Q2_Student_performance.pdf](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/files/14250400/Q2_Student_performance.pdf)
+
+![image](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/assets/70753271/6c844d79-8714-4b77-a0c6-3cbf4b97d833)
+
+![image](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/assets/70753271/70b5d6cb-6fe0-40ef-9fdc-df2d7df13d13)
+
+![image](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/assets/70753271/d4a91055-79d4-49db-adb9-cc0cc38aadc1)
+
+![image](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/assets/70753271/296467a0-3d2e-405e-9968-d65cd2a4f851)
+
+
+
+
 
