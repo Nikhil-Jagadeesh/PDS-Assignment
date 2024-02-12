@@ -37,7 +37,7 @@ The "Frailty" dataset consists of several variables, including Height (in inches
 2. Student Performance Dataset: 
 The "Student Performance" dataset contains information about students, including their gender, race/ethnicity, parental level of education, lunch type, test preparation course completion, and scores in math, reading, and writing. The dataset appears to be used for analyzing factors influencing student academic performance, with the 'Total score' column providing a cumulative score for each student based on their performance in the three subjects. The variables in the dataset offer insights into demographics, educational background, and the impact of preparation on overall student achievement.
 
-**Notebooks**
+**Notebooks**: 
 For preprocessing, the Frailty dataset may require handling missing values, checking for outliers in variables like Grip_strength, and converting categorical variables, such as Frailty (Y/N), into numerical representations. Analysis could involve exploring correlations between physical characteristics and frailty status, conducting statistical tests, and visualizing the distribution of key features.
 
 
@@ -46,7 +46,7 @@ Preprocessing for the Student Performance dataset may involve handling missing d
 **Visualizations**
 Included sample visualizations from the notebooks.
 
-**Frailty Dataset Visualization: **
+**Frailty Dataset Visualization:** 
 
 [Q1_Frailty.pdf](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/files/14250369/Q1_Frailty.pdf)
 
@@ -59,7 +59,7 @@ Included sample visualizations from the notebooks.
 
 
 
-**Student Performance Dataset Visualization: **
+**Student Performance Dataset Visualization:** 
 
 [Q2_Student_performance.pdf](https://github.com/Nikhil-Jagadeesh/PDS-Assignment/files/14250400/Q2_Student_performance.pdf)
 
