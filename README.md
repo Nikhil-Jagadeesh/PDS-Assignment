@@ -1,5 +1,5 @@
 # PDS-Assignment1
-Assignment: Data Visualizations
+Assignment: Data Visualizations on given datasets.
 This repository contains code and visualizations for the assignment on performing data visualizations using Google Colab. The assignment covers two datasets: "Frailty" and "Student Performance."
 
 Table of Contents
@@ -10,10 +10,10 @@ Data Sets
 Notebooks
 Visualizations
 
-**Introduction**
+**Introduction**: 
 This assignment focuses on exploring and visualizing two distinct datasets, "Frailty" and "Student Performance," using Google Colab. The goal is to leverage various data visualization techniques to gain insights into the characteristics of each dataset.
 
-**Requirements**
+**Requirements**: 
 To run the notebooks and visualize the data, you need:
 
 Google Colab account
@@ -30,7 +30,8 @@ Upload the datasets or provide access to the datasets in your Colab environment.
 
 Run the cells in the notebooks to generate visualizations.
 
-**Data Sets**
+**Data Sets**: 
+
 1. Frailty Dataset: 
 The "Frailty" dataset consists of several variables, including Height (in inches), Weight (in pounds), Age, Grip strength (in kilograms), and Frailty status (categorized as 'Y' for Yes and 'N' for No). The dataset appears to capture physical and demographic characteristics of individuals, with a specific focus on assessing frailty, likely used for research or analysis in the context of health and aging. The Frailty variable indicates whether an individual is classified as frail ('Y') or not ('N') based on certain criteria.
 
