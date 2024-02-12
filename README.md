@@ -17,12 +17,17 @@ This assignment focuses on exploring and visualizing two distinct datasets, "Fra
 To run the notebooks and visualize the data, you need:
 
 Google Colab account
+
 Access to the provided datasets
+
 Basic understanding of Python and data visualization
-Getting Started
+
 Open Google Colab.
+
 Create a new notebook.
+
 Upload the datasets or provide access to the datasets in your Colab environment.
+
 Run the cells in the notebooks to generate visualizations.
 
 **Data Sets**
